@@ -1,0 +1,2 @@
+
+# printing list using for
