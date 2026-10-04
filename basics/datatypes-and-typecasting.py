@@ -13,7 +13,7 @@ print(type(e))
 
 # typecasting - changing datatype
 
-a= 23.3
+a= 23.3  # use round(value, places) to get required digits after a decimal
 b="23.3"
 
 print(a==b)
